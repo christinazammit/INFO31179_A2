@@ -15,6 +15,13 @@ The Sheridan College app prototype was created to provide students with an all-i
 - Events calendar
 - Food services
 
+## Desirable Functionalities
+- Placing orders for on-campus dining from within the app
+- Safety and security functions, such as Friend Walk to share your location with emergency contacts while on campus
+- Additional calendar functionalities that will allow students to add their own events, such as study sessions or group work with other students in which the event will then be shared with the other group members
+- Pay for parking from within the app as well as view current availability for each parking lot
+- Add funds to student ID card and make purchases for things from within the application, such as food or bookstore purchases
+
 ## Prototype
 <img width="1410" alt="Screen Shot 2022-02-12 at 3 48 29 AM" src="https://user-images.githubusercontent.com/68960617/153704426-9bd725ca-4283-46b6-ac89-649641223659.png">
 
