@@ -30,5 +30,5 @@ The Sheridan College app prototype was created to provide students with an all-i
 
 
 ## Links
-[Figma](https://www.figma.com/file/syXphSXRdRvtITnILukYWN/Assignment-3?node-id=0%3A1) <br />
+[Figma](https://www.figma.com/file/7t4QcASfqRv6oPjoBlyw8a/Assignment-2?node-id=0%3A1) <br />
 [Video](https://youtu.be/_IYkzEidwFE)
